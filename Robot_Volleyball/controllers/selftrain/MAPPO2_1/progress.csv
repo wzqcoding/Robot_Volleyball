@@ -1,0 +1,2 @@
+total_timesteps,n_updates,ep_len_mean,ep_reward_mean_agt1,ep_reward_mean_agt2,Environment Depth,ball_collision_agt1,ball_collision_agt2,no_side_agt1,no_side_agt2
+4096.0,1.0,650.4,-1.27,-12.45,6.0,3.0,6.6,0.0,0.0
